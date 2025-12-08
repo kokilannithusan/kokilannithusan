@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-Hub Agriculture Market Place<br><br>🌱 I’m currently learning Java Script,React js, Node js<br><br>📫 How to reach me kokilannithusan@gmail.com
+🔭 I’m currently working on E-Hub Agriculture Market Place<br><br>🌱 I’m currently learning Java Script,React with typescript, Node js, Spring Boot<br><br>📫 How to reach me kokilannithusan@gmail.com
 
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=kokilannithusan&label=Profile%20views&color=0e75b6&style=flat" alt="kokilannithusan" /> </p>)
 
