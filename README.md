@@ -1,17 +1,17 @@
-# Hi there, I'm Nithusan! 👋 
+# Hi there, I'm Nithusan! 
 
-### 👨‍💻 Full Stack Developer Intern | Bachelor of Information Technology at University of Colombo School of Computing Graduate (UCSC)
+### Full Stack Developer | Bachelor of Information Technology Graduate at University of Colombo School of Computing Graduate (UCSC)
 
 I am an aspiring developer currently focusing on mastering the Spring Boot and React ecosystem. As an intern at **Samuel Gnanam IT Centre (SGIC)**, I am dedicated to learning professional coding standards and solving real-world challenges. 
 
-- 🏗️ **Current Role:** Full Stack Developer Intern at SGIC.
-- 🎓 **Education:** Recently completed my Bachelor of Information Technology at University of Colombo School of Computing. 
-- 🚀 **Next Milestone:** Mastering Spring Security and tackling complex backend logic in the Hotel Management project.
-- 📫 **Reach Me:** [kokilannithusan@gmail.com](mailto:kokilannithusan@gmail.com)
+- **Current Role:** Full Stack Developer Intern at SGIC.
+-  **Education:** Recently completed my Bachelor of Information Technology at University of Colombo School of Computing. 
+-  **Next Milestone:** Mastering Spring Security and tackling complex backend logic in the Hotel Management project.
+-  **Reach Me:** [kokilannithusan@gmail.com](mailto:kokilannithusan@gmail.com)
 
 ---
 
-### 💼 Professional Experience:
+###  Professional Experience:
 
 #### **Full Stack Developer Intern** – [Samuel Gnanam IT Centre (SGIC)](https://www.samuelgnanam.com/)
 *July 2025 – Jan 2026* 
@@ -22,7 +22,7 @@ I am an aspiring developer currently focusing on mastering the Spring Boot and R
 
 ---
 
-### 📂 Academic Project Highlight:
+###  Academic Project Highlight:
 
 #### **E-Hub Agriculture Marketplace**
 *An individual full-stack web application designed to digitalize and streamline the agricultural supply chain across Sri Lanka.* 
@@ -39,7 +39,7 @@ I am an aspiring developer currently focusing on mastering the Spring Boot and R
 
 ---
 
-### 🛠️ Technical Toolkit:
+### Technical Toolkit:
 
 * **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 * **Frameworks:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
@@ -48,7 +48,7 @@ I am an aspiring developer currently focusing on mastering the Spring Boot and R
 ***Core Concepts:** OOP, Data Structures & Algorithms (DSA). 
 ---
 
-### ⚙️ Professional Workflow:
+###  Professional Workflow:
 * **Version Control:** Actively using **Git** and **GitHub** for source code management and collaborative development. 
 * **API Testing:** Leveraging **Postman** for API development and testing. 
 * **Teamwork:** Gaining experience in professional team workflows and version control best practices. 
