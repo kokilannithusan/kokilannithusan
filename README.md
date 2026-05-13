@@ -14,7 +14,7 @@ I am an aspiring developer currently focusing on mastering the Spring Boot and R
 ### 💼 Professional Experience:
 
 #### **Full Stack Developer Intern** – [Samuel Gnanam IT Centre (SGIC)](https://www.samuelgnanam.com/)
-*September 2025 – Present* 
+*July 2025 – Jan 2026* 
 * **Project:** Hotel Management System (Spring Boot & React/TypeScript).
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 * **Current Focus:** Implementing secure JWT-based authentication and core CRUD operations.
